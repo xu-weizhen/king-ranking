@@ -1,0 +1,22 @@
+#video {
+    margin: 60px 0;
+}
+
+#infoBox {
+    text-align: center;
+    font-size: 18px;
+}
+
+#infoBox .textInfo {
+    margin: 10px 0;
+}
+
+#trainingBox{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 200px;
+}
+
+#trainingBox .textInfo{
+    margin: 20px 0;
+}

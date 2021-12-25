@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9c38ffd.css",
+    "main.js": "/static/js/main.9be08910.js",
+    "static/media/king-ranking_bg_fight.jpg": "/static/media/king-ranking_bg_fight.3a29cd94749b0dd6cf95.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.a9c38ffd.css",
+    "static/js/main.9be08910.js"
+  ]
+}
