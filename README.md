@@ -33,7 +33,7 @@ serve -s build
 
 
 ## 时序图
-![时序图](./pic/Sequence.png)
+![时序图](./pic/sequence.png)
 
 ## 类图
 ![类图](./pic/class.png)
