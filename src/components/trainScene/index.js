@@ -103,7 +103,7 @@ export default class TrainScene extends Component {
         // 训练网络
         
         for(let i = 0; i < epoch; i++){
-            const t = await model.fit(x, y, {epochs: 2});
+            const t = await model.fit(x, y, {epochs: 4});
             this.setState({trainProgress: ((i + 1) / epoch).toFixed(2) * 100})
 
             // 打印损失
